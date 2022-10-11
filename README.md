@@ -1,4 +1,3 @@
-# Test-Techinical-ALAMI-Backend
 # ALAMI Technical Test Assessment
 this is repository for assessment alami sharia, and in this repository include 2 different language
 
